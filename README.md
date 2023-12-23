@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Karishma Yadav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+<img align="right" alt="coding" width= "300" src=""C:\Users\KARISHMA\OneDrive\Pictures\giphy.gif""> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karii-07&label=Profile%20views&color=0e75b6&style=flat" alt="karii-07" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/karii-07?tab=repositories](https://github.com/karii-07?tab=repositories)
