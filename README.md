@@ -1,4 +1,4 @@
-![logo](https://github.com/karii-07/Karishma-Yadav/blob/main/Screenshot%202023-12-23%20125137.png)
+![logo](https://github.com/karii-07/karii-07/blob/main/GitHub%20Template.png)
 
 <h1 align="center">Hi 👋, I'm Karishma Yadav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
